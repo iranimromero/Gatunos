@@ -14,7 +14,7 @@ $(document).ready(function(){
         rules: {
            
             rut:{
-                maxlength: 8,
+                maxlength: 10,
                 required: true,
                 validaRut: true
             }, 
