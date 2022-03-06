@@ -1,0 +1,100 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif
+}
+
+.nav-color{
+    font-weight: 700px;
+    font-size: 1.5rem;
+    color: #707070;
+    background-color: #5DC1B9;
+}
+
+nav i{
+    font-size: 3rem;
+    padding: 1rem;
+    color: white;
+}
+
+h1{
+    font-weight: 700px;
+    font-size: 3.75rem;
+    color: #707070;
+    margin-top: 3rem;
+    padding: 2rem;
+    text-align: center;
+    
+}
+
+h2{
+    font-weight: 700px;
+    font-size: 3rem;
+    color: #ffffff;
+    margin-top: 3rem;
+    text-align: center;
+}
+h5{
+    font-weight: 700px;
+    font-size: 1rem;
+    text-align:left ;
+}
+
+
+.descripcion-producto{
+    font-weight: 500px;
+    font-size: 1rem;
+    text-align:left ;
+}
+
+/*.caracteristicas-producto{
+
+}*/
+
+
+
+.logo{
+    margin: 1rem;
+    text-align:  center;
+}
+
+.responsive{
+    max-height: 67px;
+    height: auto;
+  
+}
+
+.bd-contacto{
+    width: 100%; 
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    /* padding-left: 4rem;
+    padding-right: 4rem; */
+    color: white;
+    font-size: 2rem;
+    /* las siguiente tres lineas me permiten centrar texto e iconos verticamente al centro */
+    display:flex; 
+    justify-content: center;
+    align-items: center; 
+}
+
+
+.bg-verde{
+    background-color: #d6e7da;
+}
+
+.alinear{
+    display: inline-block; 
+   
+    
+}
+
+.formato{
+    border-left: 2 rem;
+    border-right: 2 rem;
+}
+
+.pie{
+    max-width: 100%;
+    text-align:  center;
+}
